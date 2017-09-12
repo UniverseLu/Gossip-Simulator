@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0mRunning project2 20 full push-sum[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/Universe_Lu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Universe_Lu/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Universe_Lu/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread System-akka.actor.default-dispatcher-3 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread System-akka.actor.default-dispatcher-3 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread actorSystem-akka.actor.default-dispatcher-2 to terminate.[0m

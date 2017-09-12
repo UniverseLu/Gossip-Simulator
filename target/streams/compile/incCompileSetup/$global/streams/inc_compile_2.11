@@ -1,0 +1,263 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$2$$anonfun$apply$mcVI$sp$1.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$2.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$3.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$4.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$5.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$6.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$7$$anonfun$apply$mcVI$sp$2.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$7.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/Node$$anonfun$receive$2.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/Node.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/project2$$anonfun$1.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/project2$.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/project2.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/space$.class
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/space.class
+binary dependencies:
+3 items
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.6.jar
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /Users/Universe_Lu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster$$anonfun$receive$1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$2
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$2$$anonfun$apply$mcVI$sp$1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$3
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$4
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$5
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$6
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$7
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$7$$anonfun$apply$mcVI$sp$2
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Node
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Node$$anonfun$receive$2
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> project2
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> project2$
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> project2$$anonfun$1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> space
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> space$
+used names:
+129 items
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> !
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> !=
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> %
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> +
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> +:
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> -
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> /
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> <
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> <=
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> <init>
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> ==
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> >
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> A1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Actor
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> ActorRef
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> ActorSelection
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> ActorSystem
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> AnyRef
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Array
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> AssignMaster
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> B1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> ClassTag
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Double
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> ExtraNeighbour
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Function1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> GossipMaster
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Int
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> List
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Map
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Math
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Nil
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Node
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Predef
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Props
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Queue
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Random
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> String
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> System
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> Unit
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> _1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> _2
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> _3
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> abs
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> actor
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> actorOf
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> actorRef2Scala
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> actorSelection
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> akka
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> algorithm
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> apply
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> args
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> asInstanceOf
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> augmentString
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> b
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> canBuildFrom
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> ceil
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> collection
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> contains
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> context
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> currentTimeMillis
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> dequeue
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> empty
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> enqueue
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> foreach
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> head
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> i
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> idNum
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> immutable
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> intWrapper
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> isInstanceOf
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> j
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> java
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> lang
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> last
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> length
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> ls
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> materializeClassTag
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> messagecount
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> messagecount_=
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> mutable
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> neighbour
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> neighbour1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> neighbourLen
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> neighbourmap
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> nextInt
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> node
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> nodeId
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> nodecount
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> nodecount_=
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> numNodes
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> ofDim
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> package
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> println
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> project2
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> pushDone
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> qual$1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> random
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> random1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> ratio
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> ratiocount
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> s
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> s_=
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> scala
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> self
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> shutdown
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> sign
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> sign_=
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> slidingWindow
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> space
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> sqrt
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> sum
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> system
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> system2
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> to
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> toDouble
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> toInt
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> toScala
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> toString
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> topology
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> unchecked
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> update
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> util
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> w
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> w_=
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> weight
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> while$1
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> withFilter
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> x$11
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> x$12
+product stamps:
+18 items
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$2$$anonfun$apply$mcVI$sp$1.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$2.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$3.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$4.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$5.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$6.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$7$$anonfun$apply$mcVI$sp$2.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1$$anonfun$applyOrElse$7.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster$$anonfun$receive$1.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/GossipMaster.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/Node$$anonfun$receive$2.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/Node.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/project2$$anonfun$1.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/project2$.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/project2.class -> lastModified(1444016174000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/space$.class -> lastModified(1444016175000)
+/Users/Universe_Lu/UF/DOS/project2test/target/scala-2.11/classes/space.class -> lastModified(1444016175000)
+source stamps:
+1 items
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> hash(cc5f2c1dd3625ad26f5efc6eeda1ec2d6a676eb8)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1406753776000)
+/Users/Universe_Lu/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.6.jar -> lastModified(1409900350000)
+/Users/Universe_Lu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Universe_Lu/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.6.jar -> akka.actor.Actor
+/Users/Universe_Lu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
+internal apis:
+1 items
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC2wePzAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzpvNeHQABHNlbGZzcQB+AAsFhJjFdAAHY29udGV4dHVxAH4ACQAAADBzcQB+AAue0GyfdAAGbm90aWZ5c3EAfgALqZVsCnQAAXNzcQB+AAvejnaTdAAHUmVjZWl2ZXNxAH4AC4CS4zV0AAhwcm9qZWN0MnNxAH4AC1ZNic90AAR3YWl0c3EAfgALQRzSPnQADSRhc0luc3RhbmNlT2ZzcQB+AAvxk1KddAAGZXF1YWxzc3EAfgAL9bwlvHQADGFzSW5zdGFuY2VPZnNxAH4AC0j/msN0AAxzeW5jaHJvbml6ZWRzcQB+AAvqjkwIdAANc2xpZGluZ1dpbmRvd3NxAH4ACySUoIN0AA0kaXNJbnN0YW5jZU9mc3EAfgALAHmlnHQABE5vZGVzcQB+AAsi++XcdAAHcmVjZWl2ZXNxAH4AC/memxN0AApwcmVSZXN0YXJ0c3EAfgALmxljUXQADWFyb3VuZFJlY2VpdmVzcQB+AAuYZTKSdAALcG9zdFJlc3RhcnRzcQB+AAsz6K4mdAAEbWFpbnNxAH4AC3dX9Pt0AAhwb3N0U3RvcHNxAH4ACx6HE610AAlub3RpZnlBbGxzcQB+AAsllnAgdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAsK7VFFdAAMaXNJbnN0YW5jZU9mc3EAfgALWO71YnQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsoit4FdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAs3TM84dAAEc2lnbnNxAH4ACxaiuWl0AAY8aW5pdD5zcQB+AAuktGQfdAAIcHJlU3RhcnRzcQB+AAvZ6N9edAAJdW5oYW5kbGVkc3EAfgALWG78vHQABXNwYWNlc3EAfgALD1X4RnQAAWJzcQB+AAven8DJdAACPT1zcQB+AAukUJd3dAAJbm9kZWNvdW50c3EAfgALVGVqT3QABWNsb25lc3EAfgALQKOkPHQACnJhdGlvY291bnRzcQB+AAtrSpMOdAAMbmVpZ2hib3VybWFwc3EAfgALFsDUI3QABnNlbmRlcnNxAH4AC4Dtl550AAh0b1N0cmluZ3NxAH4AC8kIKj50AAIhPXNxAH4AC1GsmlJ0AAhnZXRDbGFzc3NxAH4ACwUPu310AAxHb3NzaXBNYXN0ZXJzcQB+AAsKIwwxdAAMbWVzc2FnZWNvdW50c3EAfgALdj68u3QAAXdzcQB+AAt+C6BrdAACbmVzcQB+AAtaBSY3dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALQUiHMXQAAmVxc3EAfgALzVCiYnQAAiMjc3EAfgALA/OVT3QACGZpbmFsaXplc3EAfgALRLHV5nQACGhhc2hDb2Rlc3EAfgALKM6qbXQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABHNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ae3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAZdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ak3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AkgBwc3EAfgCXc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHtMAAlpbmhlcml0ZWRxAH4Ae0wAB3BhcmVudHNxAH4Ae3hxAH4Am3NxAH4AkgBwc3EAfgCXdXEAfgB2AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgB8cQB+AIV1cQB+AIYAAAAAc3EAfgCIAHEAfgAzdXEAfgCKAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJp0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCac3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC4dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB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
+external apis:
+0 items
+source infos:
+1 items
+/Users/Universe_Lu/UF/DOS/project2test/src/main/scala/project2.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUDVvyBJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9Vbml2ZXJzZV9MdS9VRi9ET1MvcHJvamVjdDJ0ZXN0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUDVyHpN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9Vbml2ZXJzZV9MdS9VRi9ET1MvcHJvamVjdDJ0ZXN0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUDWPZZd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9Vbml2ZXJzZV9MdS9VRi9ET1MvcHJvamVjdDJ0ZXN0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUDYJvQR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9Vbml2ZXJzZV9MdS9VRi9ET1MvcHJvamVjdDJ0ZXN0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUDYQ2A51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9Vbml2ZXJzZV9MdS9VRi9ET1MvcHJvamVjdDJ0ZXN0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUDYSKQJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9Vbml2ZXJzZV9MdS9VRi9ET1MvcHJvamVjdDJ0ZXN0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
